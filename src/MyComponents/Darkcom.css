@@ -1,0 +1,87 @@
+.nav-font{
+    font-family: 'Bree Serif', serif;
+}
+
+
+.about{
+    font-family: 'Bree Serif', serif;
+    font-size: large;
+    text-align: center;
+    padding: 1rem;
+    background-color: #040404;
+    color: #199519;
+}
+
+.about p{
+    margin: 0px 204px;
+    text-align: center;
+}
+
+.sec-2{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #040404;
+}
+
+.sec-2 h1{
+    text-align: center;
+}
+
+.sec-2 div{
+    margin: 2rem;
+}
+.sec-3{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #040404;
+}
+
+.sec-3 h1{
+    text-align: center;
+}
+
+.sec-3 div{
+    margin: 2rem;
+}
+
+.sec-4{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #040404;
+}
+
+.sec-4 h1{
+    text-align: center;
+}
+
+.sec-4 div{
+    margin: 2rem;
+}
+
+.sec-5{
+    display: flex;
+    justify-content: center;
+    background-color: #040404;
+}
+
+#porn-card-body{
+    text-align: center;
+}
+
+
+footer{
+    background: black;
+    color: white;
+    margin: 34px 0px 0px 0px;
+}
+
+.h_primary {
+    font-size: 30px;
+    padding: 20px;
+    font-family: 'Bree Serif', serif;
+}
+
+.center {
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
